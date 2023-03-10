@@ -55,6 +55,7 @@ Full-Stack developer with +3 years of experience building web applications and s
 
 </details>
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!.
+
+> {office_quote}.
 >
->  Gabe Lewis.
+> {office_character}.
