@@ -35,13 +35,11 @@ Full-Stack developer with +3 years of experience building web applications and s
 <!-- BLOG-POST-LIST:END -->
 
 <div>
+
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama865&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=osama865&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
 </div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-6DA55F?style=for-the-badge&logo=react&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-6DA55F?style=for-the-badge&logo=javascript&logoColor=white) ![NodeJS](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white)
@@ -54,6 +52,7 @@ Full-Stack developer with +3 years of experience building web applications and s
 ![Shell scripting](https://img.shields.io/badge/shell-6DA55F?style=for-the-badge&logo=shell&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-6DA55F?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-6DA55F?style=for-the-badge&logo=firebase&logoColor=white) ![Redux.js](https://img.shields.io/badge/redux-6DA55F?style=for-the-badge&logo=redux&logoColor=white)
 
 </details>
+
 
 > Shut up about the sun. SHUT UP ABOUT THE SUN!.
 >
